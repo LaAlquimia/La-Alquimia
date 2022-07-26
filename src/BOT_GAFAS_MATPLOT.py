@@ -48,6 +48,6 @@ for i in range (0, len(prices_a)) :
   if qtts_a[i] > a_M/2 :
     sls.append(prices_a[i])
 
-print(f' compras:{bys} /n ventas: {sls}')
+print(f' compras:{bys} \n ventas: {sls}')
 
 plt.show()

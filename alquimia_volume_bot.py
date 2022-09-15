@@ -1,8 +1,5 @@
 import asyncio
 import websockets, json, pprint, numpy
-import config
-from binance.client import Client
-from binance.enums import *
 import time
 import requests
 
